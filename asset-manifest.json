@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d41c22e.chunk.css",
+    "main.js": "/static/js/main.aad1498c.chunk.js",
+    "main.js.map": "/static/js/main.aad1498c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.2a86faee.chunk.css": "/static/css/2.2a86faee.chunk.css",
+    "static/js/2.965f28a1.chunk.js": "/static/js/2.965f28a1.chunk.js",
+    "static/js/2.965f28a1.chunk.js.map": "/static/js/2.965f28a1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a408af9fd36158b27bce49b8931cb2f0.js": "/precache-manifest.a408af9fd36158b27bce49b8931cb2f0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.4d41c22e.chunk.css.map": "/static/css/main.4d41c22e.chunk.css.map",
+    "static/js/2.965f28a1.chunk.js.LICENSE.txt": "/static/js/2.965f28a1.chunk.js.LICENSE.txt",
+    "static/media/Erik_Rudhe_CV.pdf": "/static/media/Erik_Rudhe_CV.62b70291.pdf",
+    "static/media/beaver1.jpg": "/static/media/beaver1.cae86b97.jpg",
+    "static/media/beaver2.jpg": "/static/media/beaver2.bf4e74a7.jpg",
+    "static/media/beaver3.jpg": "/static/media/beaver3.fe6c6403.jpg",
+    "static/media/beaver4.jpg": "/static/media/beaver4.252e3d01.jpg",
+    "static/media/profilbild.jpg": "/static/media/profilbild.43e9d152.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.965f28a1.chunk.js",
+    "static/css/main.4d41c22e.chunk.css",
+    "static/js/main.aad1498c.chunk.js"
+  ]
+}
